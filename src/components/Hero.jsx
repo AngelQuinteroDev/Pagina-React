@@ -1,9 +1,9 @@
 function Hero() {
   return (
     <section id="inicio" className="hero">
-      <h1>Hola, soy una pagina de React</h1>
+      <h1>Bienvenido a mi pagina</h1>
       <p>
-        Esta SPA fue hecha con React y Vite para aprender como funcionan los
+        Esta SPA fue creada con React y Vite, con una estructura simple de
         componentes.
       </p>
       <a href="#caracteristicas" className="btn">

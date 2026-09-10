@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer className="footer">
-      <p>Hecha con React y Vite</p>
+      <p>Creada con React y Vite</p>
       <a
         href="https://github.com/AngelQuinteroDev/Pagina-React"
         target="_blank"

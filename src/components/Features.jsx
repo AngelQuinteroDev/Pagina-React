@@ -1,15 +1,15 @@
 const features = [
   {
     title: 'Componentes',
-    text: 'La pagina esta dividida en componentes reutilizables.',
+    text: 'La interfaz esta organizada en componentes reutilizables.',
   },
   {
     title: 'React',
-    text: 'Cada parte se renderiza con React y se actualiza sola.',
+    text: 'Cada seccion se renderiza de forma dinamica con React.',
   },
   {
     title: 'Vercel',
-    text: 'La pagina esta publicada gratis en Vercel.',
+    text: 'El proyecto se despliega de forma continua en Vercel.',
   },
 ]
 

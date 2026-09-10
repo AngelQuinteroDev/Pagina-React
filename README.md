@@ -32,7 +32,3 @@ La interfaz esta compuesta por varios componentes en `src/components/`:
 ## Despliegue
 
 La aplicacion esta publicada en Vercel.
-
-## Autor
-
-Angel Quintero
